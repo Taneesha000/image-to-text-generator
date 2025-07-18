@@ -13,7 +13,7 @@ This tool extracts readable text from images using in-browser machine vision.
 
 ## 📦 Installation
 
-### 1. Clone the Repository.
+
 ### 1. Clone the Repository
 
 
@@ -21,11 +21,11 @@ git clone https://github.com/Taneesha000/image-to-text-generator.git
 cd image-to-text-generator
 
 
-2. Install Dependencies
+### 2. Install Dependencies
 npm install
 
 
-4. Run Development Server
+### 3. Run Development Server
 npm run dev
 
 ---
