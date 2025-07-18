@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: image-to-text-converter
+    env: static
+    buildCommand: npm run build
+    staticPublishPath: dist
